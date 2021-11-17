@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Patterns.ConsoleProj
+namespace Patterns.Main.Samples
 {
     public class CommandMediator
     {

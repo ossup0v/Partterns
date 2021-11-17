@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\Patterns.ConsoleProj\Patterns.ConsoleProj.csproj" />
+      <ProjectReference Include="..\..\Patterns.Main\Patterns.Main.csproj" />
     </ItemGroup>
 
 </Project>

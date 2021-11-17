@@ -1,4 +1,4 @@
-﻿namespace Patterns.ConsoleProj
+﻿namespace Patterns.Main.Samples
 {
     public interface ICreditCartBillingStrategy
     {

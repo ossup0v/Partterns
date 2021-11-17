@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using Patterns.ConsoleProj;
+using Patterns.Main.Samples;
 
 namespace UnitTest
 {

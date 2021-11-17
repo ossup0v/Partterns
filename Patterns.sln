@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.ConsoleProj", "Patterns.ConsoleProj\Patterns.ConsoleProj.csproj", "{DACBA787-CC87-4B2E-9C34-7C0A42182AB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Main", "Patterns.Main\Patterns.Main.csproj", "{DACBA787-CC87-4B2E-9C34-7C0A42182AB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "Tests\UnitTest\UnitTest.csproj", "{C2CBEA0F-FA76-45F5-A192-8E2EFA7D9F01}"
 EndProject
